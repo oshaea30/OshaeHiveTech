@@ -1,7 +1,7 @@
 # techis-wd-Hive-Techwear
 
 ```
-Hive-Techwear project, with a frontend built in React & Redux and a backend built in Django API.
+Hive-Techwear group project redeployment, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
